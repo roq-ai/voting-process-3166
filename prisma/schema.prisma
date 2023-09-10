@@ -1,0 +1,61 @@
+generator client {
+  provider = "prisma-client-js"
+  previewFeatures = ["clientExtensions", "postgresqlExtensions"]
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+  extensions      = [pgcrypto]
+}
+
+model school {
+  id          String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  description String?  @db.VarChar(255)
+  name        String   @db.VarChar(255)
+  created_at  DateTime @default(now()) @db.Timestamp(6)
+  updated_at  DateTime @default(now()) @db.Timestamp(6)
+  user_id     String   @db.Uuid
+  tenant_id   String   @db.VarChar(255)
+  user        user     @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  vote        vote[]
+}
+
+model user {
+  id            String          @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  email         String          @unique @db.VarChar(255)
+  firstName     String?         @db.VarChar(255)
+  lastName      String?         @db.VarChar(255)
+  roq_user_id   String          @db.VarChar(255)
+  tenant_id     String          @db.VarChar(255)
+  created_at    DateTime        @default(now()) @db.Timestamp(6)
+  updated_at    DateTime        @default(now()) @db.Timestamp(6)
+  school        school[]
+  voting_result voting_result[]
+}
+
+model vote {
+  id            String          @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  title         String          @db.VarChar(255)
+  option_1      String          @db.VarChar(255)
+  option_2      String          @db.VarChar(255)
+  option_3      String          @db.VarChar(255)
+  option_4      String          @db.VarChar(255)
+  option_5      String          @db.VarChar(255)
+  school_id     String          @db.Uuid
+  created_at    DateTime        @default(now()) @db.Timestamp(6)
+  updated_at    DateTime        @default(now()) @db.Timestamp(6)
+  school        school          @relation(fields: [school_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  voting_result voting_result[]
+}
+
+model voting_result {
+  id              String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  vote_id         String   @db.Uuid
+  user_id         String   @db.Uuid
+  selected_option String   @db.VarChar(255)
+  created_at      DateTime @default(now()) @db.Timestamp(6)
+  updated_at      DateTime @default(now()) @db.Timestamp(6)
+  user            user     @relation(fields: [user_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  vote            vote     @relation(fields: [vote_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+}

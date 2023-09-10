@@ -1,0 +1,1532 @@
+[
+  {
+    "vote": [
+      {
+        "id": "2462a545-2c34-4fb7-8511-8d03114e926e",
+        "title": "Favorite Movie",
+        "option_1": "The Shawshank Redemption",
+        "option_2": "Pulp Fiction",
+        "option_3": "The Godfather",
+        "option_4": "Inception",
+        "option_5": "The Dark Knight",
+        "created_at": "2023-09-09T17:33:52.810Z",
+        "updated_at": "2023-09-09T17:05:31.307Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "693e6bc2-8a6b-43cb-9c47-daa292041f76",
+        "title": "Best Vacation Destination",
+        "option_1": "Bora Bora",
+        "option_2": "Santorini",
+        "option_3": "Maldives",
+        "option_4": "Paris",
+        "option_5": "New York City",
+        "created_at": "2023-09-10T09:27:04.926Z",
+        "updated_at": "2023-09-09T21:33:01.791Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "0404b649-a455-470e-9e0b-7746c06080d5",
+        "title": "Preferred Food",
+        "option_1": "Pizza",
+        "option_2": "Sushi",
+        "option_3": "Burger",
+        "option_4": "Pasta",
+        "option_5": "Tacos",
+        "created_at": "2023-09-10T04:11:07.106Z",
+        "updated_at": "2023-09-10T02:48:20.487Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "944a58a3-882c-4e95-941c-f1ce9b8d5454",
+        "title": "Top Sports Team",
+        "option_1": "Real Madrid",
+        "option_2": "Barcelona",
+        "option_3": "Manchester United",
+        "option_4": "Golden State Warriors",
+        "option_5": "Los Angeles Lakers",
+        "created_at": "2023-09-09T18:33:44.721Z",
+        "updated_at": "2023-09-10T06:31:16.435Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "0f946d00-d91b-4d36-9e4a-36f4ed071b2e",
+        "title": "Most Inspiring Book",
+        "option_1": "To Kill a Mockingbird",
+        "option_2": "The Great Gatsby",
+        "option_3": "1984",
+        "option_4": "The Catcher in the Rye",
+        "option_5": "The Alchemist",
+        "created_at": "2023-09-10T14:26:28.203Z",
+        "updated_at": "2023-09-10T01:30:47.259Z",
+        "school_id": "main_entity_pk"
+      }
+    ],
+    "voting_result": [
+      {
+        "id": "e2ae7162-4440-4cfd-9b1e-72f9b06b9144",
+        "selected_option": "option_1",
+        "created_at": "2023-09-10T15:36:11.424Z",
+        "updated_at": "2023-09-09T22:57:14.436Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "944a58a3-882c-4e95-941c-f1ce9b8d5454"
+      },
+      {
+        "id": "dd199076-ecd1-4e76-8121-5328caa4a851",
+        "selected_option": "option_3",
+        "created_at": "2023-09-10T14:35:41.004Z",
+        "updated_at": "2023-09-10T06:44:15.540Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "944a58a3-882c-4e95-941c-f1ce9b8d5454"
+      },
+      {
+        "id": "17372f1c-8b77-4393-80bf-b82e710b5411",
+        "selected_option": "option_2",
+        "created_at": "2023-09-10T14:24:28.715Z",
+        "updated_at": "2023-09-10T03:53:20.569Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "2462a545-2c34-4fb7-8511-8d03114e926e"
+      },
+      {
+        "id": "3fd31ae1-80f3-4de9-a7db-cd24e2d0fbbc",
+        "selected_option": "option_4",
+        "created_at": "2023-09-10T15:20:24.781Z",
+        "updated_at": "2023-09-09T22:58:21.966Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "0404b649-a455-470e-9e0b-7746c06080d5"
+      },
+      {
+        "id": "5d9ca1ae-2846-46c7-b273-bf24b7ea8098",
+        "selected_option": "option_5",
+        "created_at": "2023-09-10T12:39:34.572Z",
+        "updated_at": "2023-09-10T06:07:48.131Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "0404b649-a455-470e-9e0b-7746c06080d5"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "53e7f669-5579-44d6-a603-a04d21af0f24",
+        "email": "Damien.Bechtelar@gmail.com",
+        "firstName": "Vella",
+        "lastName": "DuBuque-DuBuque",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/489.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "24410e31-5ba5-4af2-9f96-7de63e054414",
+        "email": "Meta97@yahoo.com",
+        "firstName": "Johanna",
+        "lastName": "Schumm",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45522437",
+        "tenantId": null
+      },
+      {
+        "reference": "e4740a40-a61d-46a6-a6dc-3c310e887e28",
+        "email": "Merlin.Stark@yahoo.com",
+        "firstName": "Carolyn",
+        "lastName": "West",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1165.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d608f112-ee2e-41eb-a4d5-a6f6f624f33c",
+        "email": "Jerod_Breitenberg15@gmail.com",
+        "firstName": "Jaquelin",
+        "lastName": "Grady",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/140.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "81a3557e-569e-40d0-bab8-19dc7ed23175",
+        "email": "Kaia32@yahoo.com",
+        "firstName": "Lonnie",
+        "lastName": "Gutkowski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36192931",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vote": [
+      {
+        "id": "1fb17503-0ee4-4a33-b053-4a7f4e908a6b",
+        "title": "Favorite Movie",
+        "option_1": "The Shawshank Redemption",
+        "option_2": "The Godfather",
+        "option_3": "Pulp Fiction",
+        "option_4": "Fight Club",
+        "option_5": "Inception",
+        "created_at": "2023-09-10T03:56:23.001Z",
+        "updated_at": "2023-09-10T12:22:46.709Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "114763b4-428e-4944-a239-d2db74f10528",
+        "title": "Best Vacation Destination",
+        "option_1": "Bora Bora",
+        "option_2": "Santorini",
+        "option_3": "Maldives",
+        "option_4": "Paris",
+        "option_5": "New York City",
+        "created_at": "2023-09-09T17:56:24.257Z",
+        "updated_at": "2023-09-10T06:02:08.411Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "a5bd6262-b8a3-4b86-a030-77471ebc52de",
+        "title": "Preferred Food",
+        "option_1": "Pizza",
+        "option_2": "Sushi",
+        "option_3": "Burger",
+        "option_4": "Pasta",
+        "option_5": "Steak",
+        "created_at": "2023-09-09T21:38:57.537Z",
+        "updated_at": "2023-09-10T12:00:36.182Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "ce9d4b05-3a96-48e9-a285-37e2f41d8c5e",
+        "title": "Top Sports Team",
+        "option_1": "Manchester United",
+        "option_2": "Real Madrid",
+        "option_3": "Barcelona",
+        "option_4": "Golden State Warriors",
+        "option_5": "Los Angeles Lakers",
+        "created_at": "2023-09-10T10:45:21.640Z",
+        "updated_at": "2023-09-10T14:10:56.795Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "7d2b6fa3-2cac-40cb-8e27-20a1819977b8",
+        "title": "Most Inspiring Book",
+        "option_1": "To Kill a Mockingbird",
+        "option_2": "1984",
+        "option_3": "The Great Gatsby",
+        "option_4": "The Catcher in the Rye",
+        "option_5": "The Lord of the Rings",
+        "created_at": "2023-09-10T00:45:24.025Z",
+        "updated_at": "2023-09-09T20:58:19.359Z",
+        "school_id": "main_entity_pk"
+      }
+    ],
+    "voting_result": [
+      {
+        "id": "ad0e80e8-4b90-484b-9b12-ee9d73418e64",
+        "selected_option": "option_1",
+        "created_at": "2023-09-10T01:05:31.717Z",
+        "updated_at": "2023-09-09T22:24:26.706Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "a5bd6262-b8a3-4b86-a030-77471ebc52de"
+      },
+      {
+        "id": "fc283215-d670-4088-9ca7-b5d2400e2fee",
+        "selected_option": "option_3",
+        "created_at": "2023-09-09T21:20:23.164Z",
+        "updated_at": "2023-09-09T15:52:11.166Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "ce9d4b05-3a96-48e9-a285-37e2f41d8c5e"
+      },
+      {
+        "id": "e20496a0-a4f5-45a6-b972-4e13d13bd6e6",
+        "selected_option": "option_2",
+        "created_at": "2023-09-09T17:24:11.999Z",
+        "updated_at": "2023-09-10T14:37:20.506Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "1fb17503-0ee4-4a33-b053-4a7f4e908a6b"
+      },
+      {
+        "id": "83e26750-49c2-446e-a411-65ff74c19abc",
+        "selected_option": "option_4",
+        "created_at": "2023-09-10T04:28:38.117Z",
+        "updated_at": "2023-09-10T13:42:33.700Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "1fb17503-0ee4-4a33-b053-4a7f4e908a6b"
+      },
+      {
+        "id": "b5a342f9-a1a0-49d1-94b4-8ffc373a2876",
+        "selected_option": "option_5",
+        "created_at": "2023-09-09T21:34:49.647Z",
+        "updated_at": "2023-09-10T08:11:54.008Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "1fb17503-0ee4-4a33-b053-4a7f4e908a6b"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "0741a064-298e-46df-a6b3-e26b08793501",
+        "email": "Janelle24@hotmail.com",
+        "firstName": "Richie",
+        "lastName": "McClure",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47710996",
+        "tenantId": null
+      },
+      {
+        "reference": "31575a94-5ecd-4464-a194-94a4364204a0",
+        "email": "Wilburn.Wisoky28@yahoo.com",
+        "firstName": "Bertram",
+        "lastName": "Rogahn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1204583",
+        "tenantId": null
+      },
+      {
+        "reference": "7ae5d8fe-4002-4b8a-98a1-d54fcbf735fa",
+        "email": "Theo.Ortiz-Farrell78@yahoo.com",
+        "firstName": "Jessika",
+        "lastName": "Barton",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/160.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0d7d38de-01d9-4b52-a1c8-34d3f0a24ed5",
+        "email": "Benton_Labadie24@gmail.com",
+        "firstName": "Peter",
+        "lastName": "Huel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/563.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8c7653c9-c4bf-4c48-8ad8-0e97379bcd49",
+        "email": "Stephania0@yahoo.com",
+        "firstName": "Quentin",
+        "lastName": "Will",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1205.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vote": [
+      {
+        "id": "5804ab98-4915-4209-9f68-feecdd7be67f",
+        "title": "Favorite Movie",
+        "option_1": "The Shawshank Redemption",
+        "option_2": "The Godfather",
+        "option_3": "Pulp Fiction",
+        "option_4": "The Dark Knight",
+        "option_5": "Fight Club",
+        "created_at": "2023-09-10T15:33:45.970Z",
+        "updated_at": "2023-09-10T10:03:36.786Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "868e6b68-254b-4a5f-8fe1-83830255d0d7",
+        "title": "Best Vacation Destination",
+        "option_1": "Bora Bora",
+        "option_2": "Santorini",
+        "option_3": "Maldives",
+        "option_4": "Paris",
+        "option_5": "Bali",
+        "created_at": "2023-09-09T22:13:49.746Z",
+        "updated_at": "2023-09-10T02:59:20.229Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "4390e754-2d3a-4b5e-a437-ab1f1515bc93",
+        "title": "Preferred Sports Team",
+        "option_1": "Real Madrid",
+        "option_2": "Barcelona FC",
+        "option_3": "Los Angeles Lakers",
+        "option_4": "New York Yankees",
+        "option_5": "Manchester United",
+        "created_at": "2023-09-10T00:40:51.531Z",
+        "updated_at": "2023-09-09T17:09:21.385Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "03a1a06d-7aae-4dce-84c3-82a3268e5330",
+        "title": "Favorite Book",
+        "option_1": "To Kill a Mockingbird",
+        "option_2": "Pride and Prejudice",
+        "option_3": "1984",
+        "option_4": "The Great Gatsby",
+        "option_5": "Harry Potter and the Sorcerer's Stone",
+        "created_at": "2023-09-10T02:29:58.770Z",
+        "updated_at": "2023-09-10T00:32:59.727Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "1ba521eb-125f-4785-9e62-8a1dea3b9ee4",
+        "title": "Top Music Album",
+        "option_1": "Thriller",
+        "option_2": "Abbey Road",
+        "option_3": "Dark Side of the Moon",
+        "option_4": "Hotel California",
+        "option_5": "Nevermind",
+        "created_at": "2023-09-10T13:37:01.773Z",
+        "updated_at": "2023-09-09T20:41:40.645Z",
+        "school_id": "main_entity_pk"
+      }
+    ],
+    "voting_result": [
+      {
+        "id": "58b8a050-5c9b-4b6d-9246-4e1cfc11d608",
+        "selected_option": "option_3",
+        "created_at": "2023-09-09T23:28:46.125Z",
+        "updated_at": "2023-09-10T13:19:51.404Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "4390e754-2d3a-4b5e-a437-ab1f1515bc93"
+      },
+      {
+        "id": "c417bad4-92b1-44dc-a8ad-cc56fda059f8",
+        "selected_option": "option_2",
+        "created_at": "2023-09-10T01:50:30.200Z",
+        "updated_at": "2023-09-10T03:09:15.224Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "4390e754-2d3a-4b5e-a437-ab1f1515bc93"
+      },
+      {
+        "id": "6c65fe83-5547-4bbb-b044-d0924e660d68",
+        "selected_option": "option_4",
+        "created_at": "2023-09-09T19:32:50.281Z",
+        "updated_at": "2023-09-10T11:58:02.472Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "4390e754-2d3a-4b5e-a437-ab1f1515bc93"
+      },
+      {
+        "id": "098621ef-e188-4a87-bcb6-728af564d542",
+        "selected_option": "option_1",
+        "created_at": "2023-09-09T15:52:40.197Z",
+        "updated_at": "2023-09-09T22:06:46.874Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "5804ab98-4915-4209-9f68-feecdd7be67f"
+      },
+      {
+        "id": "9c7b9fc0-fefa-4fbe-8283-26c10d582f6a",
+        "selected_option": "option_5",
+        "created_at": "2023-09-10T15:44:40.878Z",
+        "updated_at": "2023-09-10T05:23:06.873Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "03a1a06d-7aae-4dce-84c3-82a3268e5330"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "78a20ef9-ceae-4865-a63a-f8e2ade6e00f",
+        "email": "Avis_Fahey@yahoo.com",
+        "firstName": "Elnora",
+        "lastName": "Connelly",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1973430",
+        "tenantId": null
+      },
+      {
+        "reference": "aba088c5-95f6-44d5-943f-f68fad945be6",
+        "email": "Leif_Jacobson96@gmail.com",
+        "firstName": "Coleman",
+        "lastName": "Huel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/87826010",
+        "tenantId": null
+      },
+      {
+        "reference": "c88da9ec-89d9-4663-9523-8cfc5deac110",
+        "email": "Keely_Thiel76@yahoo.com",
+        "firstName": "Brennan",
+        "lastName": "Durgan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1104.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6945ea13-1519-40ba-9d18-05b9c011743c",
+        "email": "Rosetta56@yahoo.com",
+        "firstName": "Gianni",
+        "lastName": "Gulgowski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/53.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ea903859-bd60-4043-a2b6-35b3953f7cae",
+        "email": "Delpha93@yahoo.com",
+        "firstName": "Herminia",
+        "lastName": "Hand",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48595129",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vote": [
+      {
+        "id": "65af2237-93f7-4955-8989-c2142f90d3f5",
+        "title": "Favorite Color",
+        "option_1": "Blue",
+        "option_2": "Red",
+        "option_3": "Green",
+        "option_4": "Yellow",
+        "option_5": "Purple",
+        "created_at": "2023-09-10T09:55:27.067Z",
+        "updated_at": "2023-09-09T20:13:34.836Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "91a118b5-370e-48a4-8797-50729cbc7fb2",
+        "title": "Best Movie",
+        "option_1": "The Shawshank Redemption",
+        "option_2": "The Godfather",
+        "option_3": "Pulp Fiction",
+        "option_4": "Inception",
+        "option_5": "Fight Club",
+        "created_at": "2023-09-10T02:07:18.011Z",
+        "updated_at": "2023-09-09T21:16:52.418Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "bca603e9-a9df-45d9-95a3-7e172b523b4f",
+        "title": "Preferred Vacation Destination",
+        "option_1": "Paris",
+        "option_2": "Bali",
+        "option_3": "Maldives",
+        "option_4": "New York City",
+        "option_5": "Tokyo",
+        "created_at": "2023-09-10T01:38:11.900Z",
+        "updated_at": "2023-09-09T19:52:42.639Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "82a94862-73c8-4377-8e37-138aa1b411bf",
+        "title": "Most Inspiring Book",
+        "option_1": "To Kill a Mockingbird",
+        "option_2": "1984",
+        "option_3": "The Great Gatsby",
+        "option_4": "The Catcher in the Rye",
+        "option_5": "The Alchemist",
+        "created_at": "2023-09-09T19:04:22.830Z",
+        "updated_at": "2023-09-10T05:54:06.422Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "3be1771b-35b8-455e-8d8a-c62d2a9ec370",
+        "title": "Top Sports Team",
+        "option_1": "Manchester United",
+        "option_2": "Real Madrid",
+        "option_3": "Barcelona",
+        "option_4": "Golden State Warriors",
+        "option_5": "Los Angeles Lakers",
+        "created_at": "2023-09-10T06:35:31.612Z",
+        "updated_at": "2023-09-10T06:42:19.004Z",
+        "school_id": "main_entity_pk"
+      }
+    ],
+    "voting_result": [
+      {
+        "id": "ca5146fc-2cce-450b-869a-fe36d6ecdfd2",
+        "selected_option": "option_1",
+        "created_at": "2023-09-10T09:07:26.773Z",
+        "updated_at": "2023-09-09T16:35:41.699Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "91a118b5-370e-48a4-8797-50729cbc7fb2"
+      },
+      {
+        "id": "4a156e82-b35a-477e-9374-6c55c78e51d9",
+        "selected_option": "option_3",
+        "created_at": "2023-09-09T20:31:25.830Z",
+        "updated_at": "2023-09-10T01:03:35.805Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "3be1771b-35b8-455e-8d8a-c62d2a9ec370"
+      },
+      {
+        "id": "e9d6c5c3-2018-4b31-9cbd-78cd2b924678",
+        "selected_option": "option_2",
+        "created_at": "2023-09-09T19:28:19.550Z",
+        "updated_at": "2023-09-09T18:20:25.335Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "3be1771b-35b8-455e-8d8a-c62d2a9ec370"
+      },
+      {
+        "id": "a33b5240-d893-49cf-9252-7fba40dbb4e0",
+        "selected_option": "option_4",
+        "created_at": "2023-09-10T08:11:34.252Z",
+        "updated_at": "2023-09-09T21:33:46.559Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "3be1771b-35b8-455e-8d8a-c62d2a9ec370"
+      },
+      {
+        "id": "a4702571-935c-4f69-89ce-e8c2918c33e9",
+        "selected_option": "option_5",
+        "created_at": "2023-09-09T20:28:22.859Z",
+        "updated_at": "2023-09-10T02:30:08.227Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "3be1771b-35b8-455e-8d8a-c62d2a9ec370"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a194d110-d6e9-440b-975e-30a5fb1e766e",
+        "email": "Dennis_Hammes@hotmail.com",
+        "firstName": "Wilfredo",
+        "lastName": "Beahan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/515.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bf5c8908-8167-46d5-a9d5-aea349bcc008",
+        "email": "Brenden43@yahoo.com",
+        "firstName": "Lulu",
+        "lastName": "Haag",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49647611",
+        "tenantId": null
+      },
+      {
+        "reference": "c305a9de-2b67-4003-9d15-106448b92234",
+        "email": "Cheyanne21@yahoo.com",
+        "firstName": "Muriel",
+        "lastName": "Ebert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/84.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0093fba8-6060-473c-b52e-a33936c5a15b",
+        "email": "Dahlia.Rogahn38@hotmail.com",
+        "firstName": "Lily",
+        "lastName": "Auer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/690.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "94662e58-07e4-4ec1-ba3b-cb2a291f9f0e",
+        "email": "Hassan_Watsica50@gmail.com",
+        "firstName": "Megane",
+        "lastName": "Hammes",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/729.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vote": [
+      {
+        "id": "6f9e0b17-e40d-49e9-be00-dd577ca86763",
+        "title": "Favorite Color",
+        "option_1": "Blue",
+        "option_2": "Green",
+        "option_3": "Red",
+        "option_4": "Yellow",
+        "option_5": "Purple",
+        "created_at": "2023-09-10T14:40:28.780Z",
+        "updated_at": "2023-09-10T13:09:29.842Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "cb635602-27dd-4800-a241-b24916900164",
+        "title": "Best Movie",
+        "option_1": "The Shawshank Redemption",
+        "option_2": "Inception",
+        "option_3": "The Godfather",
+        "option_4": "Pulp Fiction",
+        "option_5": "Fight Club",
+        "created_at": "2023-09-09T18:27:06.887Z",
+        "updated_at": "2023-09-09T16:56:10.449Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "c4151b35-7fd0-464d-aef1-e1d354fad567",
+        "title": "Preferred Vacation Destination",
+        "option_1": "Maldives",
+        "option_2": "Bali",
+        "option_3": "Paris",
+        "option_4": "Hawaii",
+        "option_5": "New York City",
+        "created_at": "2023-09-10T10:11:42.473Z",
+        "updated_at": "2023-09-10T14:15:38.314Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "31b166c8-cc8a-4dc2-a4b3-ce2d42911d6c",
+        "title": "Favorite Food",
+        "option_1": "Pizza",
+        "option_2": "Sushi",
+        "option_3": "Burger",
+        "option_4": "Pasta",
+        "option_5": "Steak",
+        "created_at": "2023-09-09T22:55:39.889Z",
+        "updated_at": "2023-09-10T02:32:06.962Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "f9d3285f-4a40-4ded-8ea5-697bef45d5e2",
+        "title": "Most Admired Celebrity",
+        "option_1": "Tom Hanks",
+        "option_2": "Emma Watson",
+        "option_3": "Leonardo DiCaprio",
+        "option_4": "Jennifer Lawrence",
+        "option_5": "Brad Pitt",
+        "created_at": "2023-09-09T21:25:47.866Z",
+        "updated_at": "2023-09-09T19:58:35.165Z",
+        "school_id": "main_entity_pk"
+      }
+    ],
+    "voting_result": [
+      {
+        "id": "63c32ab5-7fd6-4e9d-8e40-364052f0d8f9",
+        "selected_option": "option_3",
+        "created_at": "2023-09-10T05:03:53.686Z",
+        "updated_at": "2023-09-10T06:05:09.343Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "c4151b35-7fd0-464d-aef1-e1d354fad567"
+      },
+      {
+        "id": "25b14b02-a469-499c-81f1-e07f169bfdb8",
+        "selected_option": "option_2",
+        "created_at": "2023-09-09T20:31:53.489Z",
+        "updated_at": "2023-09-10T12:38:18.243Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "cb635602-27dd-4800-a241-b24916900164"
+      },
+      {
+        "id": "79b6154e-426c-49db-b659-cce295dddfc9",
+        "selected_option": "option_4",
+        "created_at": "2023-09-10T01:36:38.678Z",
+        "updated_at": "2023-09-10T02:14:54.792Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "6f9e0b17-e40d-49e9-be00-dd577ca86763"
+      },
+      {
+        "id": "7b928ff6-10a4-4d27-88f7-7b58c088f4f7",
+        "selected_option": "option_1",
+        "created_at": "2023-09-09T23:50:56.394Z",
+        "updated_at": "2023-09-09T18:59:59.103Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "c4151b35-7fd0-464d-aef1-e1d354fad567"
+      },
+      {
+        "id": "a4bee97c-7a3a-462b-a9f4-f34b9930e520",
+        "selected_option": "option_5",
+        "created_at": "2023-09-10T07:13:45.049Z",
+        "updated_at": "2023-09-09T20:27:16.049Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "f9d3285f-4a40-4ded-8ea5-697bef45d5e2"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "91fa56c9-79ed-4128-8cf6-e59d8db1d0b0",
+        "email": "Arlie.Leannon47@yahoo.com",
+        "firstName": "Joshuah",
+        "lastName": "Dickinson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72246354",
+        "tenantId": null
+      },
+      {
+        "reference": "b8046701-f2a5-44fb-bff3-dd8ecd5759ec",
+        "email": "Mariana.Bode51@gmail.com",
+        "firstName": "Triston",
+        "lastName": "Medhurst",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/326.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3322ac96-8db0-48dc-9cce-d22ed86ce52c",
+        "email": "Eduardo.Sporer@hotmail.com",
+        "firstName": "Lilly",
+        "lastName": "Kuhlman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1231.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9eac1e8e-6290-4b55-886e-fd963c136167",
+        "email": "Lee_Ziemann@yahoo.com",
+        "firstName": "Maynard",
+        "lastName": "Schuppe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/68351281",
+        "tenantId": null
+      },
+      {
+        "reference": "82978de5-df86-4ea2-b31c-7bd6ab0a6d16",
+        "email": "Jesus50@yahoo.com",
+        "firstName": "Germaine",
+        "lastName": "Ullrich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/24748858",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vote": [
+      {
+        "id": "69df4e8a-c697-4d21-9689-fd210a19a5e6",
+        "title": "Favorite Color",
+        "option_1": "Red",
+        "option_2": "Blue",
+        "option_3": "Green",
+        "option_4": "Yellow",
+        "option_5": "Purple",
+        "created_at": "2023-09-09T20:10:02.264Z",
+        "updated_at": "2023-09-10T08:40:33.819Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "5e510f6d-f654-4ae3-8187-1b6e134a55aa",
+        "title": "Best Movie",
+        "option_1": "Action",
+        "option_2": "Comedy",
+        "option_3": "Drama",
+        "option_4": "Thriller",
+        "option_5": "Romance",
+        "created_at": "2023-09-09T17:58:04.599Z",
+        "updated_at": "2023-09-10T06:06:29.245Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "c51e1dc1-9cfa-4814-ab9d-0f042509d993",
+        "title": "Preferred Vacation Spot",
+        "option_1": "Beach",
+        "option_2": "Mountains",
+        "option_3": "City",
+        "option_4": "Countryside",
+        "option_5": "Island",
+        "created_at": "2023-09-10T06:57:40.638Z",
+        "updated_at": "2023-09-09T21:52:20.916Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "8b444592-81cc-4e54-92c0-595c0e5c6b9b",
+        "title": "Top Sports Team",
+        "option_1": "Football",
+        "option_2": "Basketball",
+        "option_3": "Soccer",
+        "option_4": "Baseball",
+        "option_5": "Tennis",
+        "created_at": "2023-09-10T10:54:21.163Z",
+        "updated_at": "2023-09-09T18:22:41.645Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "d97fad69-05c6-474f-a598-178812d66c6c",
+        "title": "Favorite Food",
+        "option_1": "Pizza",
+        "option_2": "Burger",
+        "option_3": "Sushi",
+        "option_4": "Pasta",
+        "option_5": "Steak",
+        "created_at": "2023-09-10T01:07:59.314Z",
+        "updated_at": "2023-09-10T05:13:23.855Z",
+        "school_id": "main_entity_pk"
+      }
+    ],
+    "voting_result": [
+      {
+        "id": "88f2a120-eb63-4a98-a5a2-d12b877698d2",
+        "selected_option": "option_3",
+        "created_at": "2023-09-10T13:01:56.618Z",
+        "updated_at": "2023-09-09T20:19:29.829Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "c51e1dc1-9cfa-4814-ab9d-0f042509d993"
+      },
+      {
+        "id": "6c2651a5-1093-45f5-9537-5ed925d4b7a2",
+        "selected_option": "option_2",
+        "created_at": "2023-09-10T15:03:15.981Z",
+        "updated_at": "2023-09-10T05:56:58.444Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "69df4e8a-c697-4d21-9689-fd210a19a5e6"
+      },
+      {
+        "id": "76b50176-a23d-43fa-bf88-5e32e5cabf5d",
+        "selected_option": "option_1",
+        "created_at": "2023-09-09T16:16:07.247Z",
+        "updated_at": "2023-09-10T08:29:06.686Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "c51e1dc1-9cfa-4814-ab9d-0f042509d993"
+      },
+      {
+        "id": "18bd54bd-650b-41b9-805a-94afaf765955",
+        "selected_option": "option_4",
+        "created_at": "2023-09-10T00:57:50.021Z",
+        "updated_at": "2023-09-09T20:44:31.525Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "5e510f6d-f654-4ae3-8187-1b6e134a55aa"
+      },
+      {
+        "id": "072bdd66-9696-4ee9-8865-0e31280c1369",
+        "selected_option": "option_5",
+        "created_at": "2023-09-09T20:38:42.251Z",
+        "updated_at": "2023-09-10T05:48:53.874Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "8b444592-81cc-4e54-92c0-595c0e5c6b9b"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "520fd2b7-745c-447a-90f0-aecc085392f8",
+        "email": "Okey16@hotmail.com",
+        "firstName": "Corbin",
+        "lastName": "Hamill",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77181928",
+        "tenantId": null
+      },
+      {
+        "reference": "4e2b6a9e-5636-4f9b-8015-98c54270ca89",
+        "email": "Jace.Lynch@yahoo.com",
+        "firstName": "Edwin",
+        "lastName": "Metz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1021.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4879d3c1-04f7-4037-871f-d2515129eaee",
+        "email": "Delta.Schiller@yahoo.com",
+        "firstName": "Sierra",
+        "lastName": "Lemke-Quitzon",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/428.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b5b7e4ed-176d-466d-bfd5-2e293de33e4d",
+        "email": "Burdette71@yahoo.com",
+        "firstName": "Annabell",
+        "lastName": "Denesik",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13501631",
+        "tenantId": null
+      },
+      {
+        "reference": "b372998a-1188-4f39-8ab7-1da592e674be",
+        "email": "Garret_Cremin@yahoo.com",
+        "firstName": "Vance",
+        "lastName": "Murazik",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/761.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vote": [
+      {
+        "id": "364a9c3d-6d79-48e4-a99e-37e55a1c2a2f",
+        "title": "Favorite Color",
+        "option_1": "Blue",
+        "option_2": "Green",
+        "option_3": "Red",
+        "option_4": "Yellow",
+        "option_5": "Purple",
+        "created_at": "2023-09-09T19:27:03.891Z",
+        "updated_at": "2023-09-10T04:02:44.704Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "f9d7a7c6-931e-4339-84af-3c2d94022634",
+        "title": "Best Movie",
+        "option_1": "The Shawshank Redemption",
+        "option_2": "The Godfather",
+        "option_3": "Pulp Fiction",
+        "option_4": "Fight Club",
+        "option_5": "Inception",
+        "created_at": "2023-09-09T18:55:40.745Z",
+        "updated_at": "2023-09-10T14:09:43.450Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "3a5de1ad-701a-495d-ac4e-8d50519bb508",
+        "title": "Preferred Vacation Destination",
+        "option_1": "Paris",
+        "option_2": "Bali",
+        "option_3": "Maldives",
+        "option_4": "New York City",
+        "option_5": "Tokyo",
+        "created_at": "2023-09-10T10:53:30.586Z",
+        "updated_at": "2023-09-10T04:46:53.464Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "b40333df-b6d1-4dfa-b8a7-d5c662288d1c",
+        "title": "Most Inspiring Book",
+        "option_1": "To Kill a Mockingbird",
+        "option_2": "1984",
+        "option_3": "The Great Gatsby",
+        "option_4": "The Catcher in the Rye",
+        "option_5": "The Alchemist",
+        "created_at": "2023-09-09T23:46:20.777Z",
+        "updated_at": "2023-09-09T22:19:25.232Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "8c6686b8-eb70-453b-ba21-170b6afc9cfe",
+        "title": "Top Sports Team",
+        "option_1": "Manchester United",
+        "option_2": "Real Madrid",
+        "option_3": "Barcelona",
+        "option_4": "Bayern Munich",
+        "option_5": "Liverpool",
+        "created_at": "2023-09-10T14:07:31.701Z",
+        "updated_at": "2023-09-09T22:03:33.844Z",
+        "school_id": "main_entity_pk"
+      }
+    ],
+    "voting_result": [
+      {
+        "id": "bef2ad46-2d7a-4238-9c6b-75ee32dd570a",
+        "selected_option": "option_3",
+        "created_at": "2023-09-10T11:08:59.932Z",
+        "updated_at": "2023-09-09T16:36:19.920Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "364a9c3d-6d79-48e4-a99e-37e55a1c2a2f"
+      },
+      {
+        "id": "d69fbbc4-96d3-4b4c-b5fe-1470312f234f",
+        "selected_option": "option_1",
+        "created_at": "2023-09-09T20:06:34.100Z",
+        "updated_at": "2023-09-09T23:15:33.933Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "364a9c3d-6d79-48e4-a99e-37e55a1c2a2f"
+      },
+      {
+        "id": "8fef09b8-8652-46c0-a6e2-889f0720c8d5",
+        "selected_option": "option_4",
+        "created_at": "2023-09-09T20:27:29.306Z",
+        "updated_at": "2023-09-10T06:29:18.086Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "b40333df-b6d1-4dfa-b8a7-d5c662288d1c"
+      },
+      {
+        "id": "70543a2b-bb53-4a48-b6e4-4a2bb19b15b5",
+        "selected_option": "option_2",
+        "created_at": "2023-09-10T07:28:01.162Z",
+        "updated_at": "2023-09-10T08:27:00.077Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "3a5de1ad-701a-495d-ac4e-8d50519bb508"
+      },
+      {
+        "id": "1ff7e382-6015-4559-a04b-c32a9403d5fa",
+        "selected_option": "option_5",
+        "created_at": "2023-09-10T02:56:28.663Z",
+        "updated_at": "2023-09-10T08:02:37.519Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "364a9c3d-6d79-48e4-a99e-37e55a1c2a2f"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "ca9610e4-332f-4da0-aac0-a9a45b901ec6",
+        "email": "Solon.Wuckert28@yahoo.com",
+        "firstName": "Tracy",
+        "lastName": "Armstrong",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44207705",
+        "tenantId": null
+      },
+      {
+        "reference": "d425cd3a-124a-41e7-8825-abb4209432f2",
+        "email": "Abigail.Dickinson@gmail.com",
+        "firstName": "Trever",
+        "lastName": "Koelpin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/59.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5196a34e-6e32-4ad2-bf75-7a893a4296cd",
+        "email": "Gayle.Bechtelar@gmail.com",
+        "firstName": "Monty",
+        "lastName": "Frami",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31279705",
+        "tenantId": null
+      },
+      {
+        "reference": "130effeb-fa79-4d0d-a156-4f4b67345811",
+        "email": "Lowell43@yahoo.com",
+        "firstName": "Nina",
+        "lastName": "Swaniawski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15360072",
+        "tenantId": null
+      },
+      {
+        "reference": "c7f33b75-764f-4a6a-add3-ad69eea85e8f",
+        "email": "Mckenzie.Bechtelar@gmail.com",
+        "firstName": "Allison",
+        "lastName": "Barrows",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/282.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vote": [
+      {
+        "id": "d4462e07-3230-4780-9d96-893c729fe723",
+        "title": "Favorite Color",
+        "option_1": "Blue",
+        "option_2": "Green",
+        "option_3": "Red",
+        "option_4": "Yellow",
+        "option_5": "Purple",
+        "created_at": "2023-09-10T09:38:05.556Z",
+        "updated_at": "2023-09-09T20:34:15.020Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "277af97b-45b6-4d27-97bc-d260dcbe0481",
+        "title": "Best Movie",
+        "option_1": "The Shawshank Redemption",
+        "option_2": "Pulp Fiction",
+        "option_3": "Inception",
+        "option_4": "The Godfather",
+        "option_5": "Fight Club",
+        "created_at": "2023-09-10T08:43:19.230Z",
+        "updated_at": "2023-09-10T10:55:05.162Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "3c4988ac-b2c0-4ab6-bd88-6f96afbdf368",
+        "title": "Preferred Vacation Destination",
+        "option_1": "Maldives",
+        "option_2": "Bali",
+        "option_3": "Hawaii",
+        "option_4": "Paris",
+        "option_5": "New York City",
+        "created_at": "2023-09-09T16:12:48.648Z",
+        "updated_at": "2023-09-09T16:44:12.909Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "684f107a-c481-4ddd-b430-d26da3df95b7",
+        "title": "Most Loved Food",
+        "option_1": "Pizza",
+        "option_2": "Sushi",
+        "option_3": "Burger",
+        "option_4": "Pasta",
+        "option_5": "Ice Cream",
+        "created_at": "2023-09-10T01:03:54.322Z",
+        "updated_at": "2023-09-10T04:12:13.252Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "3a913f27-4802-4438-a53b-a52c7a6870d7",
+        "title": "Top Sports Team",
+        "option_1": "Real Madrid",
+        "option_2": "Barcelona",
+        "option_3": "Manchester United",
+        "option_4": "Liverpool",
+        "option_5": "Bayern Munich",
+        "created_at": "2023-09-09T18:14:57.460Z",
+        "updated_at": "2023-09-09T19:16:14.758Z",
+        "school_id": "main_entity_pk"
+      }
+    ],
+    "voting_result": [
+      {
+        "id": "1f1e6ac9-5f8b-4360-8bef-427650d3135d",
+        "selected_option": "option_1",
+        "created_at": "2023-09-10T13:49:11.930Z",
+        "updated_at": "2023-09-10T03:24:12.975Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "684f107a-c481-4ddd-b430-d26da3df95b7"
+      },
+      {
+        "id": "bea962fe-9536-4b76-8f14-3c5cb88d4b8d",
+        "selected_option": "option_3",
+        "created_at": "2023-09-09T20:38:54.340Z",
+        "updated_at": "2023-09-09T18:02:09.658Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "3a913f27-4802-4438-a53b-a52c7a6870d7"
+      },
+      {
+        "id": "e2d38153-b365-4ad3-8048-decd81915819",
+        "selected_option": "option_2",
+        "created_at": "2023-09-10T15:03:37.609Z",
+        "updated_at": "2023-09-10T04:25:40.642Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "277af97b-45b6-4d27-97bc-d260dcbe0481"
+      },
+      {
+        "id": "d61d1cea-b29e-4c91-8058-eae13329ada5",
+        "selected_option": "option_5",
+        "created_at": "2023-09-10T08:16:30.369Z",
+        "updated_at": "2023-09-10T12:29:33.192Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "d4462e07-3230-4780-9d96-893c729fe723"
+      },
+      {
+        "id": "5fdd461d-360f-46ea-a02b-dbb71a7c4b53",
+        "selected_option": "option_4",
+        "created_at": "2023-09-10T08:44:54.251Z",
+        "updated_at": "2023-09-10T02:00:47.387Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "3a913f27-4802-4438-a53b-a52c7a6870d7"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "961874d4-a48f-4893-84cd-ac112e8d0b01",
+        "email": "Ebony_Sanford0@gmail.com",
+        "firstName": "Nat",
+        "lastName": "Franecki",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47178714",
+        "tenantId": null
+      },
+      {
+        "reference": "e676dbeb-3ad9-476a-8822-0a27fa3379ef",
+        "email": "Harmon_Bogan86@hotmail.com",
+        "firstName": "Willow",
+        "lastName": "Bechtelar",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51573597",
+        "tenantId": null
+      },
+      {
+        "reference": "a2978652-9780-4463-8c51-5c57e6481345",
+        "email": "Leon.Hills38@gmail.com",
+        "firstName": "Florian",
+        "lastName": "Shields",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/4873176",
+        "tenantId": null
+      },
+      {
+        "reference": "c1ca500c-9af0-4e27-a2dc-1ab2f9f31ab8",
+        "email": "Delilah57@gmail.com",
+        "firstName": "Sven",
+        "lastName": "Turcotte",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/432.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a417b8e6-366f-450d-9946-8759b16eb9ea",
+        "email": "Leonardo.Nienow33@gmail.com",
+        "firstName": "Tad",
+        "lastName": "Little",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76233888",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vote": [
+      {
+        "id": "2f4af16e-52cd-4bb0-8578-356320d5a8ae",
+        "title": "Favorite Color",
+        "option_1": "Blue",
+        "option_2": "Green",
+        "option_3": "Red",
+        "option_4": "Yellow",
+        "option_5": "Purple",
+        "created_at": "2023-09-10T07:34:28.405Z",
+        "updated_at": "2023-09-10T05:39:49.909Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "21b94bdd-1d86-4c6e-b3da-6f3eeeadd7ec",
+        "title": "Best Movie",
+        "option_1": "The Shawshank Redemption",
+        "option_2": "Pulp Fiction",
+        "option_3": "The Godfather",
+        "option_4": "Inception",
+        "option_5": "The Dark Knight",
+        "created_at": "2023-09-10T09:48:04.524Z",
+        "updated_at": "2023-09-10T03:41:18.599Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "5d6f9155-399b-452e-8006-eb01d8a26acd",
+        "title": "Preferred Vacation Destination",
+        "option_1": "Beach",
+        "option_2": "Mountain",
+        "option_3": "City",
+        "option_4": "Countryside",
+        "option_5": "Island",
+        "created_at": "2023-09-10T07:48:58.118Z",
+        "updated_at": "2023-09-09T22:22:03.283Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "4c6090f9-2693-4d52-831f-1247879f32df",
+        "title": "Top Music Genre",
+        "option_1": "Pop",
+        "option_2": "Rock",
+        "option_3": "Hip Hop",
+        "option_4": "Country",
+        "option_5": "Jazz",
+        "created_at": "2023-09-10T15:45:15.018Z",
+        "updated_at": "2023-09-10T00:11:26.506Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "5bee1bb5-20be-4aa8-8ed8-a228fb177327",
+        "title": "Favorite Food",
+        "option_1": "Pizza",
+        "option_2": "Sushi",
+        "option_3": "Burger",
+        "option_4": "Pasta",
+        "option_5": "Steak",
+        "created_at": "2023-09-09T20:41:52.095Z",
+        "updated_at": "2023-09-09T20:06:20.143Z",
+        "school_id": "main_entity_pk"
+      }
+    ],
+    "voting_result": [
+      {
+        "id": "cd624aad-3d6e-4ea6-97c2-8f0aae542749",
+        "selected_option": "option_1",
+        "created_at": "2023-09-10T12:38:54.620Z",
+        "updated_at": "2023-09-09T16:59:30.855Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "5d6f9155-399b-452e-8006-eb01d8a26acd"
+      },
+      {
+        "id": "b4ddba17-d6af-4a32-af8f-456b9a6a7cfb",
+        "selected_option": "option_3",
+        "created_at": "2023-09-10T06:35:30.808Z",
+        "updated_at": "2023-09-10T05:56:35.487Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "2f4af16e-52cd-4bb0-8578-356320d5a8ae"
+      },
+      {
+        "id": "6a2771b3-c9b0-4ae0-a6c5-d46410a0b46e",
+        "selected_option": "option_2",
+        "created_at": "2023-09-10T02:46:45.467Z",
+        "updated_at": "2023-09-10T11:05:09.465Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "2f4af16e-52cd-4bb0-8578-356320d5a8ae"
+      },
+      {
+        "id": "d7bcf326-971f-4f79-a67c-28a015d840d8",
+        "selected_option": "option_4",
+        "created_at": "2023-09-10T13:13:56.190Z",
+        "updated_at": "2023-09-10T01:18:33.247Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "4c6090f9-2693-4d52-831f-1247879f32df"
+      },
+      {
+        "id": "9df03c44-db94-4e16-8c0c-d6e0e873987c",
+        "selected_option": "option_5",
+        "created_at": "2023-09-10T01:27:39.562Z",
+        "updated_at": "2023-09-10T03:13:50.062Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "5d6f9155-399b-452e-8006-eb01d8a26acd"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "22cd5bf7-a986-41ca-ab54-c0dfa9306e7a",
+        "email": "Lacey_Bergnaum98@yahoo.com",
+        "firstName": "Heath",
+        "lastName": "Swift",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1104.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b3ad4d30-5504-4659-813b-396759e72ae4",
+        "email": "Rylee.DAmore@gmail.com",
+        "firstName": "Jena",
+        "lastName": "Purdy",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52741897",
+        "tenantId": null
+      },
+      {
+        "reference": "60b1f3f2-00cc-4767-894d-d7fe8b0af5f4",
+        "email": "Hank_Ebert@gmail.com",
+        "firstName": "Janae",
+        "lastName": "Cremin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/799.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1de61159-38e7-47a0-8695-fa9b3b9046be",
+        "email": "Jaclyn.Haley51@hotmail.com",
+        "firstName": "Chester",
+        "lastName": "McDermott",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90428087",
+        "tenantId": null
+      },
+      {
+        "reference": "1114eb7d-ce2f-4f97-b9f1-3844083fa615",
+        "email": "Torey19@gmail.com",
+        "firstName": "Merlin",
+        "lastName": "Waters",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10101120",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vote": [
+      {
+        "id": "14f4c9ba-4c63-4c5a-ae33-525bd4eb4c9b",
+        "title": "Favorite Color",
+        "option_1": "Blue",
+        "option_2": "Red",
+        "option_3": "Green",
+        "option_4": "Yellow",
+        "option_5": "Purple",
+        "created_at": "2023-09-10T00:24:28.055Z",
+        "updated_at": "2023-09-09T19:45:54.347Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "d460771c-a0b6-4e03-8d87-37295fa1e543",
+        "title": "Best Movie",
+        "option_1": "The Shawshank Redemption",
+        "option_2": "Pulp Fiction",
+        "option_3": "The Godfather",
+        "option_4": "Inception",
+        "option_5": "Fight Club",
+        "created_at": "2023-09-09T18:38:00.199Z",
+        "updated_at": "2023-09-10T02:46:56.824Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "0b1a3a94-c712-4f40-9a0b-a19632f59a9c",
+        "title": "Preferred Food",
+        "option_1": "Pizza",
+        "option_2": "Sushi",
+        "option_3": "Burger",
+        "option_4": "Pasta",
+        "option_5": "Steak",
+        "created_at": "2023-09-09T23:00:01.124Z",
+        "updated_at": "2023-09-10T11:03:29.208Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "b747e761-3ec0-4429-ad39-ff1daccad60a",
+        "title": "Favorite Sport",
+        "option_1": "Football",
+        "option_2": "Basketball",
+        "option_3": "Tennis",
+        "option_4": "Cricket",
+        "option_5": "Swimming",
+        "created_at": "2023-09-10T06:16:55.763Z",
+        "updated_at": "2023-09-10T13:05:15.805Z",
+        "school_id": "main_entity_pk"
+      },
+      {
+        "id": "aa8bf142-c2af-4b33-860a-a20628a03cc5",
+        "title": "Dream Travel Destination",
+        "option_1": "Bora Bora",
+        "option_2": "Santorini",
+        "option_3": "Paris",
+        "option_4": "New York City",
+        "option_5": "Tokyo",
+        "created_at": "2023-09-09T16:28:16.362Z",
+        "updated_at": "2023-09-09T20:13:38.540Z",
+        "school_id": "main_entity_pk"
+      }
+    ],
+    "voting_result": [
+      {
+        "id": "12ae559f-a899-4b3d-8816-4ffeeffc2688",
+        "selected_option": "option_3",
+        "created_at": "2023-09-10T04:55:10.368Z",
+        "updated_at": "2023-09-10T13:25:01.227Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "aa8bf142-c2af-4b33-860a-a20628a03cc5"
+      },
+      {
+        "id": "9d19c488-a8b3-4b68-bc46-408a398a6a60",
+        "selected_option": "option_1",
+        "created_at": "2023-09-10T02:20:41.849Z",
+        "updated_at": "2023-09-10T12:37:03.064Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "b747e761-3ec0-4429-ad39-ff1daccad60a"
+      },
+      {
+        "id": "fdb67b16-9108-44c2-95f2-3dd9d0da90fb",
+        "selected_option": "option_4",
+        "created_at": "2023-09-10T12:26:44.222Z",
+        "updated_at": "2023-09-10T06:28:53.201Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "0b1a3a94-c712-4f40-9a0b-a19632f59a9c"
+      },
+      {
+        "id": "8ab394b0-f707-4daa-b45b-bf1c3cbb4c50",
+        "selected_option": "option_2",
+        "created_at": "2023-09-10T07:57:01.575Z",
+        "updated_at": "2023-09-09T21:22:04.701Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "14f4c9ba-4c63-4c5a-ae33-525bd4eb4c9b"
+      },
+      {
+        "id": "d23b4ec2-a009-433e-b366-812944237ad2",
+        "selected_option": "option_5",
+        "created_at": "2023-09-10T00:26:14.967Z",
+        "updated_at": "2023-09-09T16:10:29.453Z",
+        "user_id": "user_entity_pk",
+        "vote_id": "aa8bf142-c2af-4b33-860a-a20628a03cc5"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8190e75a-19fc-49ca-84c3-9eee54877102",
+        "email": "Aubree60@yahoo.com",
+        "firstName": "Martin",
+        "lastName": "Kuvalis",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/181.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9d0f1177-2118-4194-93dc-1d9acdb1cab5",
+        "email": "Enrico_Feest91@gmail.com",
+        "firstName": "Jerrold",
+        "lastName": "Hickle",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/165.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5eab8349-4189-4d84-a2d1-fd23707d6ff8",
+        "email": "Jamil3@hotmail.com",
+        "firstName": "Nakia",
+        "lastName": "West",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/146.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "67faa830-4dc7-49d8-9e71-2ef280644778",
+        "email": "Asa_Flatley80@hotmail.com",
+        "firstName": "Dangelo",
+        "lastName": "Cole-Haley",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16966048",
+        "tenantId": null
+      },
+      {
+        "reference": "dc85b941-94b7-4b16-95cf-3dbc0371018a",
+        "email": "Connie.Abshire@gmail.com",
+        "firstName": "Jess",
+        "lastName": "Marks",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67965875",
+        "tenantId": null
+      }
+    ]
+  }
+]
